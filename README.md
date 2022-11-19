@@ -1,2 +1,2 @@
 # Weather_App
-Show the weather of a location enter in the field.
+Show's the weather of a location enter in the field.
